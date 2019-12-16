@@ -1,6 +1,6 @@
 {
   "name": "tk-one",
-  "version": "1.0.9",
+  "version": "1.2.0",
   "description": "test npm publish package",
   "main": "./index.js",
   "scripts": {
