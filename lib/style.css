@@ -1,0 +1,31 @@
+.container {
+  text-align: center;
+  margin: 35px auto;
+  width: 565px;
+}
+.title {
+  display: block;
+  margin-top: 55px;
+  color: #676767;
+  font-size: 15px;
+}
+.text {
+  display: block;
+  margin-top: 25px;
+  font-size: 22px;
+  color: #9d9d9d;
+}
+.container img {
+  margin-top: 10px;
+  width: 100%;
+  height: auto;
+}
+.type {
+  color: #b0b0b0;
+  font-size: 13px;
+}
+.date {
+  margin: 10px auto;
+  width: 85%;
+  color: #5f5e5e;
+}

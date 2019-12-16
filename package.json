@@ -1,0 +1,29 @@
+{
+  "name": "tk-one",
+  "version": "1.0.9",
+  "description": "test npm publish package",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "one"
+  ],
+  "bin": {
+    "one": "./index.js"
+  },
+  "config": {
+    "spinnerFrames": "bouncingBall"
+  },
+  "author": "tiankai",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "cli-spinners": "^2.2.0",
+    "ejs": "^3.0.1",
+    "puppeteer": "^2.0.0",
+    "spinnies": "^0.5.0",
+    "superagent": "^5.1.2"
+  }
+}
